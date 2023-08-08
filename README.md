@@ -33,9 +33,7 @@ The second phase will concentrate on the development and testing of Firewall pro
 | Number | Deliverable | Specification |
 | --- | --- | --- |
 | 1. | Smart Contracts | Development and testing of smart contracts to facilitate Firewall functionalities. |
-| 2. | Subgraph(s) | Gather data relevant to Firewall functionalities and Curve stakeholders.
-
-→ relevant for voters and governance overall |
+| 2. | Subgraph(s) | Gather data relevant to Firewall functionalities and Curve stakeholders. → relevant for voters and governance overall |
 | 3. | Frontend (if needed) | → Dashboard: ◦ security monitoring & analytics; ◦ UI Components, displaying relevant Data; ◦ UX improvements, seamlessly integrating new functionality to the existing interface (if given), → Dashboard, displaying subgraph data relevant to Curve stakeholders, → Governance Interface; ◦ for handling proposals in emergency situations, such as firewall events |
 |  | Advanced Features | → whitelist
 → governance |
