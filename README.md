@@ -15,18 +15,7 @@ This phase will focus on in-depth research and the creation of proof-of-concepts
 
 | Number | Deliverable | Specification |
 | --- | --- | --- |
-| 1. | Documentation | We will provide both inline documentation of the code and examples that explain how on-chain security methods, mainly firewalls could be integrated to the Curve Protocol.
-
-All technical components needed to realise this, will be explained.
-
-The documentation will also include the detailed research findings that address
-
-→ technical limitations,
-→ potential risks,
-→ benefits
-→ different technical and non-technical implications for Curve
-
-Furthermore, we will analyse all implications on gas efficiency  |
+| 1. | Documentation | We will provide both inline documentation of the code and examples that explain how on-chain security methods, mainly firewalls could be integrated to the Curve Protocol. All technical components needed to realise this, will be explained. The documentation will also include the detailed research findings that address; → technical limitations, → potential risks, → benefits, → different technical and non-technical implications for Curve Furthermore, we will analyse all implications on gas efficiency  |
 | 2. | Proof-of-Concepts | Based on examples that result from the conducted research, functional prototypes will be build proving its technical feasibility.
 
 This proof-of-concepts also serve for demonstration purposes to the Curve and its stakeholders, so they have more material to evaluate the further future of this Grant. |
