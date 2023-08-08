@@ -57,7 +57,7 @@ The final phase will involve the testnet deployment of all Firewall components, 
 | --- | --- | --- |
 | 1. | Testing Guide | All code will have proper unit-test coverage (e.g. 95%) to ensure functionality and robustness. In the guide we will describe how to run these tests |
 | 2. | Public and clearly documented open-source repos for: → Smart Contracts, → Subgraph(s), → Frontend (if needed) | We will provide both inline documentation of the code and a basic tutorial that explains how a user can (for example) spin up the application. Application is up, it will be possible to send test transactions that will show how the new functionality of Firewall & governance functionalities, work. |
-| 3. | Testnet deployments | all |
+| 3. | Testnet deployments | all networks |
 | 4. | Informational Publications | → Blog Posts, etc. |
 | 5. | Audits | → Auditing the Core Infrastructure |
 
@@ -72,3 +72,12 @@ Our team will also assist in preparing the system for mainnet deployment, includ
 * *as calculation base we determined an equivalent of $5k as gross compensation for a contributor per month of full-time work commitment.*
 
 *** Milestones 2&3 can be re-evaluated after reaching Milestone 1.*
+
+### Funding Address:
+
+0xf1D80B2F61fD382DcDfF5aDF24AaD4ce7114EF03
+
+payout accepted in equivalent of CRV tokens
+
+
+
